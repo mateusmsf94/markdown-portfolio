@@ -1,0 +1,4 @@
+* Eat
+* Code
+* Sleep
+* Repeat
